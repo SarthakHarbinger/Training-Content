@@ -1,0 +1,113 @@
+body{
+    background-color: white;
+    font-family: 'Red Hat Display', sans-serif;
+      
+}
+
+#navbar{
+    
+    width: 100%;
+    position: relative;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.Navbar_image{
+    margin-left: 4rem;
+}
+#navbarNav{
+    position: relative;
+    margin-left: 45rem;
+    font-weight: bold;
+    }
+.navbar-nav .nav-link {
+    margin-right: 2rem; /* Adjust the value as needed */
+  }
+
+
+
+
+
+  
+
+  .Mainbody {
+    display: flex;
+    flex-direction: row;
+    
+    
+  }
+
+  .section{
+    position: relative;
+    top: 2rem;
+    flex: 1;
+    padding: 20px;
+  }
+
+  
+  
+  #Left_section{
+    background-color:white;
+  }
+  #course_list{
+    
+    display: flex;
+    justify-content: center;
+   
+  }
+  .list-group-item {
+    text-align: center;
+    width: 20rem;
+    left: 2rem;
+  }
+
+  .list-group-item.active {
+    background-color: #F86F03; /* Change the color to your desired color */
+    color: white; /* Change the text color to ensure readability */
+    border: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .vscode-section {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    padding: 20px;
+    width: 45rem;
+  }
+  
+  .editor-container {
+    background-color: #282c34;
+    padding: 10px;
+  }
+  
+  .editor {
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #d4d4d4;
+  }
+  
+
+
+
+
